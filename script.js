@@ -1,3 +1,5 @@
 //OPERATOR PRECEDENCE
 const now = 2024
-console.log 
+const myAge = now - 1996;
+console.log (now - 1996)
+console.log (myAge)
